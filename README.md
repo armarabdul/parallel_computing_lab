@@ -2,7 +2,7 @@
 
 This repository contains the **Parallel Computing practical programs** implemented using **OpenMP in C**.
 
-## 📚 Contents
+##  Contents
 
 ### Experiment 1 — Parallel Merge Sort
 **Question:**  
@@ -34,7 +34,7 @@ The repository also contains an **Installation Guide** explaining how to install
 
 The guide also includes instructions for testing the OpenMP installation.
 
-## 📁 Repository Contents
+##  Repository Contents
 
 ```text
 Parallel-Computing/
@@ -51,7 +51,7 @@ Parallel-Computing/
 └── README.md
 ```
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - C
 - GCC
